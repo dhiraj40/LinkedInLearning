@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Context path="/">
-  <Resource driverClassName="com.mysql.cj.jdbc.Driver" name="datasource" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/red30db" username="root"/>
-</Context>

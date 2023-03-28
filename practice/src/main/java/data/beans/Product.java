@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  *
- * @author dhiraj
+ * @author Dhananjay Kapar (dhirajdhananjay4@gmail.com)
  */
 public class Product {
 

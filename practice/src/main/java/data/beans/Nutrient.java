@@ -6,7 +6,7 @@ package data.beans;
 
 /**
  *
- * @author dhira
+ * @author Dhananjay Kapar (dhirajdhananjay4@gmail.com)
  */
 public class Nutrient {
 
